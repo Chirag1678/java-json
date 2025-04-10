@@ -1,0 +1,27 @@
+[
+    {
+        "id":101,
+        "email":"amit@example.com",
+        "gender":"male"
+    },
+    {
+        "id":102,
+        "email":"bhanu@example.com",
+        "gender":"male"
+    },
+    {
+        "id":103,
+        "email":"chaitnya@example.com",
+        "gender":"male"
+    },
+    {
+        "id":104,
+        "email":"dinesh@example.com",
+        "gender":"male"
+    },
+    {
+        "id":105,
+        "email":"eshwar@example.com",
+        "gender":"male"
+    }
+]
