@@ -1,0 +1,9 @@
+{
+    "subjects": [
+        "Java",
+        "Python",
+        "C++"
+    ],
+    "name": "Student 1",
+    "age": 21
+}
